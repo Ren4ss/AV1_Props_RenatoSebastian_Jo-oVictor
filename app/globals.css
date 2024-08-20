@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(157, 224, 245);
+}
+
+.largura320 {
+  width: 320px;
+}
+
+.altura240 {
+  height: 240px;
+}
+
+.outraclasse {
+  background-color: red;
+}
+.h {
+  color: red;
+}
+.p {
+  color: rgb(19, 19, 201);
+}
+
+.imagem {
+  opacity: 70%;
+  border-radius: 10px;
+}
